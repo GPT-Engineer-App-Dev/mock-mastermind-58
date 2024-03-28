@@ -1,6 +1,6 @@
-# mock-mastermind-58
+# mock-mastermind-58bababbbbbb
 
-mock
+REPLACE_WITH_PROJECT_DESCRIPTION
 
 ## Collaborate with GPT Engineer
 
@@ -14,7 +14,7 @@ If you clone this repo and push changes, you will have them reflected in the GPT
 
 ```sh
 git clone https://github.com/GPT-Engineer-App-Dev/mock-mastermind-58.git
-cd mock-mastermind-58
+cd mock-mastermind-58bababbbbbb
 npm i
 ```
 
