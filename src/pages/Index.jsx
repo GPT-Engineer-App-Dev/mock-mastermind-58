@@ -6,7 +6,7 @@ import { FaPaperPlane } from "react-icons/fa";
 const Index = () => {
   return (
     <Flex direction="column" h="100vh">
-      <Heading p={4}>Chat App</Heading>
+      <Heading p={4}>Chit Chat App-a-looza</Heading>
 
       <VStack flex={1} p={4} spacing={4} overflowY="auto">
         <HStack w="100%" justify="flex-end">
